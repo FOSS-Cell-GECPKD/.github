@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/foss-gecskp-logo.svg" alt="FOSS GECPKD Logo" width="500">
+  <img src="assets/foss-gecskp-logo.svg" alt="FOSS GECPKD Logo" width="1200">
 </p>
 
 ## About Us
