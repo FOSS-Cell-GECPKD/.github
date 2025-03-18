@@ -1,5 +1,3 @@
-# FOSS Club GEC Palakkad
-
 <p align="center">
   <img src="assets/foss-gecskp-logo.svg" alt="FOSS GECPKD Logo" width="200">
 </p>
